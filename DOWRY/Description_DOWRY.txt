@@ -1,1 +1,0 @@
-In this we have manually extract 6 sections from the DOWRY pdf and then convert them (sections) into json format..
