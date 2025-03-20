@@ -1,0 +1,36 @@
+{
+    "Act": "Negotiable Instruments Act, 1881",
+    "Preamble": "An Act to define and amend the law relating to Promissory Notes, Bills of Exchange, and Cheques.",
+    "Sections": [
+        {
+            "SectionNumber": "1",
+            "Title": "Short title, extent, and commencement",
+            "Content": "This Act  may be called the Negotiable Instruments Act, 1881. \nLocal extent. Saving of usages relating to hundis, etc.—It extends to the whole of India 2*** but \nnothing herein contained affects the 3Indian Paper Currency Act, 1871 (3 of 1871), section 21, or affects \nany local usage relating to any instrument in an oriental language: Provided that such usages may be \nexcluded by any words in the body of the instrument which indicate an intention that the legal relations of \nthe parties thereto shall he governed by this Act; \nCommencement.—and it shall come into force on the first day of March, 1882. "
+        },
+        {
+            "SectionNumber": "2",
+            "Title": "Repeal of enactments",
+            "Content": "Rep. by the Repealing and Amending Act, 1891(12 of 1891), s. 2 and \nthe Schedule I. "
+        },
+        {
+            "SectionNumber": "3",
+            "Title": "Interpretation clause",
+            "Content": "In this Act—\n'Banker' includes any person acting as a banker and any post office savings bank."
+        },
+        {
+            "SectionNumber": "9",
+            "Title": " “Holder in due course” ",
+            "Content": "“Holder in due course” means any person who for consideration \nbecame the possessor of a promissory note, bill of exchange or cheque if payable to bearer, \nor the payee or indorsee thereof, if 1[payable to order,] \nbefore the amount mentioned in it became payable, and without having sufficient cause to believe that \nany defect existed in the title of the person from whom he derived his title. "
+        },
+        {
+            "SectionNumber": "5",
+            "Title": "Bill of exchange",
+            "Content": "A “bill of exchange” is an instrument in writing containing an unconditional \norder, signed by the maker, directing a certain person to pay a certain sum of money only to, or to the \norder of, a certain person or to the bearer of the instrument. \nA promise or order to pay is not “conditional”, within the meaning of this section and section 4, by \nreason of the time for payment of the amount or any instalment thereof being expressed to be on the lapse \nof a certain period after the occurrence of a specified even which, according to the ordinary expectation of \nmankind, is certain to happen, although the time of its happening may be uncertain. \nThe sum payble may be “certain”, within the meaning of this section and section 4, although it \nincludes future interest or is payable at an indicated rate of exchange, or is according to the course of \nexchange, and although the instrument provides that, on default of payment of an instalment, the balance \nunpaid shall become due. \nThe person to whom it is clear that the direction is given or that payment is to be made may be a \n“certain person”, within the meaning of this section and section 4, although he is mis-named or \ndesignated by description only."
+        },
+        {
+            "SectionNumber": "6",
+            "Title": "Cheque",
+            "Content": "A “cheque” is a bill of exchange drawn on a specified banker and not expressed to \nbe payable otherwise than on demand and it includes the electronic image of a truncated cheque and a \ncheque in the electronic form. \nExplanation I.—For the purposes of this section, the expressions— \n2[(a) “a cheque in the electronic form” means a cheque drawn in electronic form by using any \ncomputer resource and signed in a secure system with digital signature (with or without biometrics \nsignature) and asymmetric crypto system or with electronic signature, as the case may be;] \n(b) “a truncated cheque” means a cheque which is truncated during the course of a clearing cycle, \neither by the clearing house or by the bank whether paying or receiving payment, immediately on \ngeneration of an electronic image for transmission, substituting the further physical movement of the \ncheque in writing. \nExplanation II.— For the purposes of this section, the expression “clearing house” means the clearing \nhouse managed by the Reserve Bank of India or a clearing house recognised as such by the Reserve Bank \nof India.] \n3\n [Explanation III.—For the purposes of this section, the expressions “asymmetric crypto system”, \n“computer resource”, “digital signature”, “electronic form” and “electronic signature” shall have the same \nmeanings respectively assigned to them in the Information Technology Act, 2000(21 of 2000).] "
+        }
+    ]
+}
