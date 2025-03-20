@@ -1,0 +1,42 @@
+@prefix ns1: <http://example.org/legal/> .
+
+<http://example.org/legal/The_Copyright_Act,_1957> a ns1:Act ;
+    ns1:name "The Copyright Act, 1957" .
+ns1:Section_1 a ns1:Section ;
+    ns1:belongsToAct <http://example.org/legal/The_Copyright_Act,_1957> ;
+    ns1:content "1 act may called copyright act 1957 2 extends whole india 3 shall come force date2 central government may notification official gazette appoint" ;
+    ns1:sectionNumber "1" ;
+    ns1:title "Short title, extent and commencement" .
+
+ns1:Section_16 a ns1:Section ;
+    ns1:belongsToAct <http://example.org/legal/The_Copyright_Act,_1957> ;
+    ns1:content "person shall entitled copyright similar right work whether published unpublished otherwise accordance provisions act law time force nothing section shall construed abrogating right jurisdiction restrain breach trust confidence" ;
+    ns1:sectionNumber "16" ;
+    ns1:title "No copyright except as provided in this Act" .
+
+ns1:Section_29 a ns1:Section ;
+    ns1:belongsToAct <http://example.org/legal/The_Copyright_Act,_1957> ;
+    ns1:content "case work international organisation provisions section 41 apply copyright shall subsist 1 sixty years beginning calendar year next following year work first published" ;
+    ns1:sectionNumber "29" ;
+    ns1:title "Term of copyright in works of international organisations" .
+
+ns1:Section_3 a ns1:Section ;
+    ns1:belongsToAct <http://example.org/legal/The_Copyright_Act,_1957> ;
+    ns1:content "purposes act publication means making work available public issue copies communicating work public" ;
+    ns1:sectionNumber "3" ;
+    ns1:title "Meaning of publication" .
+
+ns1:Section_51 a ns1:Section ;
+    ns1:belongsToAct <http://example.org/legal/The_Copyright_Act,_1957> ;
+    ns1:content "copyright work shall deemed infringed person without licence granted owner copyright registrar copyrights act contravention conditions licence granted condition imposed competent authority act anything exclusive right act conferred upon owner copyright 3 ii permits profit place used communication work public communication constitutes infringement copyright work unless aware reasonable ground believing communication public would infringement copyright b person makes sale hire sells lets hire way trade displays offers sale hire ii distributes either purpose trade extent affect prejudicially owner copyright iii way trade exhibits public iv imports 4 india infringing copies work 5 provided nothing sub clause iv shall apply import one copy work private domestic use importer explanation purposes section reproduction literary dramatic musical artistic work form cinematograph film shall deemed infringing copy" ;
+    ns1:sectionNumber "51" ;
+    ns1:title "When copyright is infringed" .
+
+ns1:Section_63 a ns1:Section ;
+    ns1:belongsToAct <http://example.org/legal/The_Copyright_Act,_1957> ;
+    ns1:content "person knowingly infringes abets infringement copyright work b right conferred act 1 except right conferred section 53a 2 shall punishable imprisonment term shall less six months may extend three years fine shall less fifty thousand rupees may extend two lakh rupees provided 1 infringement made gain course trade business court may adequate special reasons mentioned judgment impose sentence imprisonment term less six months fine less fifty thousand rupees explanation construction building structure infringes completed would infringe copyright work shall offence section" ;
+    ns1:sectionNumber "63" ;
+    ns1:title "Offence of infringement of copyright or other rights conferred by this Act" .
+
+
+
