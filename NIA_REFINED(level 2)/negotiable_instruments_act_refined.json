@@ -1,0 +1,36 @@
+{
+    "Act": "Negotiable Instruments Act, 1881",
+    "Preamble": "An Act to define and amend the law relating to Promissory Notes, Bills of Exchange, and Cheques.",
+    "Sections": [
+        {
+            "SectionNumber": "1",
+            "Title": "Short title, extent, and commencement",
+            "Content": "act may called negotiable instruments act 1881 local extent saving usages relating hundis etc extends whole india 2 nothing herein contained affects 3indian paper currency act 1871 3 1871 section 21 affects local usage relating instrument oriental language provided usages may excluded words body instrument indicate intention legal relations parties thereto shall governed act commencement shall come force first day march 1882"
+        },
+        {
+            "SectionNumber": "2",
+            "Title": "Repeal of enactments",
+            "Content": "rep repealing amending act 1891 12 1891 2 schedule"
+        },
+        {
+            "SectionNumber": "3",
+            "Title": "Interpretation clause",
+            "Content": "act banker includes person acting banker post office savings bank"
+        },
+        {
+            "SectionNumber": "9",
+            "Title": " “Holder in due course” ",
+            "Content": "holder due course means person consideration became possessor promissory note bill exchange cheque payable bearer payee indorsee thereof 1 payable order amount mentioned became payable without sufficient cause believe defect existed title person derived title"
+        },
+        {
+            "SectionNumber": "5",
+            "Title": "Bill of exchange",
+            "Content": "bill exchange instrument writing containing unconditional order signed maker directing certain person pay certain sum money order certain person bearer instrument promise order pay conditional within meaning section section 4 reason time payment amount instalment thereof expressed lapse certain period occurrence specified even according ordinary expectation mankind certain happen although time happening may uncertain sum payble may certain within meaning section section 4 although includes future interest payable indicated rate exchange according course exchange although instrument provides default payment instalment balance unpaid shall become due person clear direction given payment made may certain person within meaning section section 4 although mis named designated description"
+        },
+        {
+            "SectionNumber": "6",
+            "Title": "Cheque",
+            "Content": "cheque bill exchange drawn specified banker expressed payable otherwise demand includes electronic image truncated cheque cheque electronic form explanation purposes section expressions 2 cheque electronic form means cheque drawn electronic form using computer resource signed secure system digital signature without biometrics signature asymmetric crypto system electronic signature case may b truncated cheque means cheque truncated course clearing cycle either clearing house bank whether paying receiving payment immediately generation electronic image transmission substituting physical movement cheque writing explanation ii purposes section expression clearing house means clearing house managed reserve bank india clearing house recognised reserve bank india 3 explanation iii purposes section expressions asymmetric crypto system computer resource digital signature electronic form electronic signature shall meanings respectively assigned information technology act 2000 21 2000"
+        }
+    ]
+}
